@@ -1,0 +1,3 @@
+[lumen]
+msg = lumen.INFO: User_id created => {"user_id":"%s"},lumen.INFO: ProductStatusID changed => {"produt_id":"%s"},lumen.CRITICAL: AadhaarAPI Exhausted  => {"message":"Your balance is too low to make an API call"},lumen.INFO: AadhaarAPI HIT  => {"message":"successfully verified"},lumen.CRITICAL: EmailAPI Exhausted  => {"message":"Sending suspended for this account. For more information, please check the inbox of the email address associated with your AWS account."},lumen.WARNING: Import Warning => {"message":"The package sounds to be deprecated"},lumen.WARNING: Import Warning => {"message":"The usage of printf function is obsolete"}
+
